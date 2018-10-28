@@ -6,6 +6,8 @@
 ## 기본기
 #### [Numpy 예시](https://datascienceschool.net/view-notebook/17608f897087478bbeac096438c716f6/)
 
+#### [torch.argmax](https://discuss.pytorch.org/t/use-argmax-to-index-tensor/16538/4)
+
 ## 코딩 설명
 #### [마크다운 설명](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
