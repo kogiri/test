@@ -1,2 +1,4 @@
 DataFrame에서 특정 행(target)만 빼고 df 만들기 
-df1 = df.drop("target", axis=1)
+    df1 = df.drop("target", axis=1)
+
+범주형 자료를 변환한 상태에서 PCA할 때
